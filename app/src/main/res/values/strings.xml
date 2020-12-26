@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieDB - MVP</string>
+    <string name="retry">Retry</string>
+    <string name="position">position</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="summary">Summary</string>
+    <string name="crew">Crew</string>
+    <string name="similar_movie">Similar Movies</string>
+    <string name="book_now">Book Now</string>
+</resources>
